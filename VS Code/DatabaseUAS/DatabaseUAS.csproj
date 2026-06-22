@@ -54,6 +54,96 @@
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
       <DependentUpon>db.settings</DependentUpon>
     </Compile>
+    <Compile Include="FormBahan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormBahan.Designer.cs">
+      <DependentUpon>FormBahan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormCookingChallange.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormCookingChallange.Designer.cs">
+      <DependentUpon>FormCookingChallange.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDaftarFollow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDaftarFollow.Designer.cs">
+      <DependentUpon>FormDaftarFollow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDaftarGambar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDaftarGambar.Designer.cs">
+      <DependentUpon>FormDaftarGambar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDaftarInteraksi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDaftarInteraksi.Designer.cs">
+      <DependentUpon>FormDaftarInteraksi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDaftarPencarian.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDaftarPencarian.Designer.cs">
+      <DependentUpon>FormDaftarPencarian.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDaftarPost.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDaftarPost.Designer.cs">
+      <DependentUpon>FormDaftarPost.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDaftarRating.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDaftarRating.Designer.cs">
+      <DependentUpon>FormDaftarRating.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDaftarRecook.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDaftarRecook.Designer.cs">
+      <DependentUpon>FormDaftarRecook.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDaftarResep.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDaftarResep.Designer.cs">
+      <DependentUpon>FormDaftarResep.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDaftarReview.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDaftarReview.Designer.cs">
+      <DependentUpon>FormDaftarReview.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormKategori.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormKategori.Designer.cs">
+      <DependentUpon>FormKategori.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormLeaderboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormLeaderboard.Designer.cs">
+      <DependentUpon>FormLeaderboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormReadingList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormReadingList.Designer.cs">
+      <DependentUpon>FormReadingList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormUser.Designer.cs">
+      <DependentUpon>FormUser.cs</DependentUpon>
+    </Compile>
     <Compile Include="FormUtama.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -62,6 +152,51 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="FormBahan.resx">
+      <DependentUpon>FormBahan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormCookingChallange.resx">
+      <DependentUpon>FormCookingChallange.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDaftarFollow.resx">
+      <DependentUpon>FormDaftarFollow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDaftarGambar.resx">
+      <DependentUpon>FormDaftarGambar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDaftarInteraksi.resx">
+      <DependentUpon>FormDaftarInteraksi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDaftarPencarian.resx">
+      <DependentUpon>FormDaftarPencarian.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDaftarPost.resx">
+      <DependentUpon>FormDaftarPost.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDaftarRating.resx">
+      <DependentUpon>FormDaftarRating.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDaftarRecook.resx">
+      <DependentUpon>FormDaftarRecook.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDaftarResep.resx">
+      <DependentUpon>FormDaftarResep.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDaftarReview.resx">
+      <DependentUpon>FormDaftarReview.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormKategori.resx">
+      <DependentUpon>FormKategori.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormLeaderboard.resx">
+      <DependentUpon>FormLeaderboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormReadingList.resx">
+      <DependentUpon>FormReadingList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormUser.resx">
+      <DependentUpon>FormUser.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="FormUtama.resx">
       <DependentUpon>FormUtama.cs</DependentUpon>
     </EmbeddedResource>
