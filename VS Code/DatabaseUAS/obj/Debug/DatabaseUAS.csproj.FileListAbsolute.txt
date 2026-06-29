@@ -28,3 +28,32 @@ C:\KthingSecond\Project UAS DB\VS Code\DatabaseUAS\obj\Debug\DatabaseUAS.csproj.
 C:\KthingSecond\Project UAS DB\VS Code\DatabaseUAS\obj\Debug\Database.752D4BC6.Up2Date
 C:\KthingSecond\Project UAS DB\VS Code\DatabaseUAS\obj\Debug\DatabaseUAS.exe
 C:\KthingSecond\Project UAS DB\VS Code\DatabaseUAS\obj\Debug\DatabaseUAS.pdb
+C:\Kuliah Thing\ProjectDB_UAS\VS Code\DatabaseUAS\bin\Debug\DatabaseUAS.exe.config
+C:\Kuliah Thing\ProjectDB_UAS\VS Code\DatabaseUAS\bin\Debug\DatabaseUAS.exe
+C:\Kuliah Thing\ProjectDB_UAS\VS Code\DatabaseUAS\bin\Debug\DatabaseUAS.pdb
+C:\Kuliah Thing\ProjectDB_UAS\VS Code\DatabaseUAS\bin\Debug\Class_CookShares.dll
+C:\Kuliah Thing\ProjectDB_UAS\VS Code\DatabaseUAS\bin\Debug\Class_CookShares.pdb
+C:\Kuliah Thing\ProjectDB_UAS\VS Code\DatabaseUAS\obj\Debug\DatabaseUAS.csproj.AssemblyReference.cache
+C:\Kuliah Thing\ProjectDB_UAS\VS Code\DatabaseUAS\obj\Debug\DatabaseUAS.exe.config
+C:\Kuliah Thing\ProjectDB_UAS\VS Code\DatabaseUAS\obj\Debug\DatabaseUAS.FormBahan.resources
+C:\Kuliah Thing\ProjectDB_UAS\VS Code\DatabaseUAS\obj\Debug\DatabaseUAS.FormCookingChallange.resources
+C:\Kuliah Thing\ProjectDB_UAS\VS Code\DatabaseUAS\obj\Debug\DatabaseUAS.FormDaftarFollow.resources
+C:\Kuliah Thing\ProjectDB_UAS\VS Code\DatabaseUAS\obj\Debug\DatabaseUAS.FormDaftarGambar.resources
+C:\Kuliah Thing\ProjectDB_UAS\VS Code\DatabaseUAS\obj\Debug\DatabaseUAS.FormDaftarInteraksi.resources
+C:\Kuliah Thing\ProjectDB_UAS\VS Code\DatabaseUAS\obj\Debug\DatabaseUAS.FormDaftarPencarian.resources
+C:\Kuliah Thing\ProjectDB_UAS\VS Code\DatabaseUAS\obj\Debug\DatabaseUAS.FormDaftarPost.resources
+C:\Kuliah Thing\ProjectDB_UAS\VS Code\DatabaseUAS\obj\Debug\DatabaseUAS.FormDaftarRating.resources
+C:\Kuliah Thing\ProjectDB_UAS\VS Code\DatabaseUAS\obj\Debug\DatabaseUAS.FormDaftarRecook.resources
+C:\Kuliah Thing\ProjectDB_UAS\VS Code\DatabaseUAS\obj\Debug\DatabaseUAS.FormDaftarResep.resources
+C:\Kuliah Thing\ProjectDB_UAS\VS Code\DatabaseUAS\obj\Debug\DatabaseUAS.FormDaftarReview.resources
+C:\Kuliah Thing\ProjectDB_UAS\VS Code\DatabaseUAS\obj\Debug\DatabaseUAS.FormKategori.resources
+C:\Kuliah Thing\ProjectDB_UAS\VS Code\DatabaseUAS\obj\Debug\DatabaseUAS.FormLeaderboard.resources
+C:\Kuliah Thing\ProjectDB_UAS\VS Code\DatabaseUAS\obj\Debug\DatabaseUAS.FormReadingList.resources
+C:\Kuliah Thing\ProjectDB_UAS\VS Code\DatabaseUAS\obj\Debug\DatabaseUAS.FormUser.resources
+C:\Kuliah Thing\ProjectDB_UAS\VS Code\DatabaseUAS\obj\Debug\DatabaseUAS.FormUtama.resources
+C:\Kuliah Thing\ProjectDB_UAS\VS Code\DatabaseUAS\obj\Debug\DatabaseUAS.Properties.Resources.resources
+C:\Kuliah Thing\ProjectDB_UAS\VS Code\DatabaseUAS\obj\Debug\DatabaseUAS.csproj.GenerateResource.cache
+C:\Kuliah Thing\ProjectDB_UAS\VS Code\DatabaseUAS\obj\Debug\DatabaseUAS.csproj.CoreCompileInputs.cache
+C:\Kuliah Thing\ProjectDB_UAS\VS Code\DatabaseUAS\obj\Debug\Database.752D4BC6.Up2Date
+C:\Kuliah Thing\ProjectDB_UAS\VS Code\DatabaseUAS\obj\Debug\DatabaseUAS.exe
+C:\Kuliah Thing\ProjectDB_UAS\VS Code\DatabaseUAS\obj\Debug\DatabaseUAS.pdb
