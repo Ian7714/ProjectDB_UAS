@@ -45,6 +45,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Class1.cs" />
+    <Compile Include="Kategori.cs" />
     <Compile Include="Koneksi.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

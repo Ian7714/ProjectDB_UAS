@@ -16,6 +16,7 @@ namespace DatabaseUAS
         public FormUtama()
         {
             InitializeComponent();
+            this.IsMdiContainer = true;
         }
 
         private void FormUtama_Load(object sender, EventArgs e)
@@ -29,6 +30,13 @@ namespace DatabaseUAS
             {
                 MessageBox.Show("Koneksi Gagal. Pesan Kesalahan: " + ex.Message, "Informasi");
             }
+        }
+
+        private void kategoriToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            FormKategori frm = new FormKategori();
+            frm.MdiParent = this;
+            frm.Show();
         }
     }
 }
