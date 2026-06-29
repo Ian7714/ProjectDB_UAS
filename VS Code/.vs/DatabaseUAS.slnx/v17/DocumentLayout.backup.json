@@ -3,20 +3,12 @@
   "WorkspaceRootPath": "C:\\Kuliah Thing\\ProjectDB_UAS\\VS Code\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{19A58E2D-4098-4A2A-87DC-87393FF993F0}|Class_CookShares\\Class_CookShares.csproj|c:\\kuliah thing\\projectdb_uas\\vs code\\class_cookshares\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{19A58E2D-4098-4A2A-87DC-87393FF993F0}|Class_CookShares\\Class_CookShares.csproj|solutionrelative:class_cookshares\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CDC01A18-874E-4BE6-A3EE-BD5A0F2F1C44}|DatabaseUAS\\DatabaseUAS.csproj|c:\\kuliah thing\\projectdb_uas\\vs code\\databaseuas\\formutama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CDC01A18-874E-4BE6-A3EE-BD5A0F2F1C44}|DatabaseUAS\\DatabaseUAS.csproj|solutionrelative:databaseuas\\formutama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CDC01A18-874E-4BE6-A3EE-BD5A0F2F1C44}|DatabaseUAS\\DatabaseUAS.csproj|c:\\kuliah thing\\projectdb_uas\\vs code\\databaseuas\\formdaftarpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CDC01A18-874E-4BE6-A3EE-BD5A0F2F1C44}|DatabaseUAS\\DatabaseUAS.csproj|solutionrelative:databaseuas\\formdaftarpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CDC01A18-874E-4BE6-A3EE-BD5A0F2F1C44}|DatabaseUAS\\DatabaseUAS.csproj|c:\\kuliah thing\\projectdb_uas\\vs code\\databaseuas\\formdaftarpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{CDC01A18-874E-4BE6-A3EE-BD5A0F2F1C44}|DatabaseUAS\\DatabaseUAS.csproj|solutionrelative:databaseuas\\formdaftarpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{19A58E2D-4098-4A2A-87DC-87393FF993F0}|Class_CookShares\\Class_CookShares.csproj|c:\\kuliah thing\\projectdb_uas\\vs code\\class_cookshares\\pencarian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{19A58E2D-4098-4A2A-87DC-87393FF993F0}|Class_CookShares\\Class_CookShares.csproj|solutionrelative:class_cookshares\\pencarian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{19A58E2D-4098-4A2A-87DC-87393FF993F0}|Class_CookShares\\Class_CookShares.csproj|C:\\Kuliah Thing\\ProjectDB_UAS\\VS Code\\class_cookshares\\koneksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19A58E2D-4098-4A2A-87DC-87393FF993F0}|Class_CookShares\\Class_CookShares.csproj|solutionrelative:class_cookshares\\koneksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -43,53 +35,26 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "FormDaftarPost.cs",
-              "DocumentMoniker": "C:\\Kuliah Thing\\ProjectDB_UAS\\VS Code\\DatabaseUAS\\FormDaftarPost.cs",
-              "RelativeDocumentMoniker": "DatabaseUAS\\FormDaftarPost.cs",
-              "ToolTip": "C:\\Kuliah Thing\\ProjectDB_UAS\\VS Code\\DatabaseUAS\\FormDaftarPost.cs",
-              "RelativeToolTip": "DatabaseUAS\\FormDaftarPost.cs",
-              "ViewState": "AgIAADQAAAAAAAAAAAAjwD8AAAAqAAAAAAAAAA==",
+              "Title": "Koneksi.cs",
+              "DocumentMoniker": "C:\\Kuliah Thing\\ProjectDB_UAS\\VS Code\\Class_CookShares\\Koneksi.cs",
+              "RelativeDocumentMoniker": "Class_CookShares\\Koneksi.cs",
+              "ToolTip": "C:\\Kuliah Thing\\ProjectDB_UAS\\VS Code\\Class_CookShares\\Koneksi.cs",
+              "RelativeToolTip": "Class_CookShares\\Koneksi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-29T04:36:19.085Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-18T01:01:34.863Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Post.cs",
-              "DocumentMoniker": "C:\\Kuliah Thing\\ProjectDB_UAS\\VS Code\\Class_CookShares\\Post.cs",
-              "RelativeDocumentMoniker": "Class_CookShares\\Post.cs",
-              "ToolTip": "C:\\Kuliah Thing\\ProjectDB_UAS\\VS Code\\Class_CookShares\\Post.cs",
-              "RelativeToolTip": "Class_CookShares\\Post.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAAwDwAAABCAAAAAAAAAA==",
+              "Title": "FormUtama.cs [Design]",
+              "DocumentMoniker": "C:\\Kuliah Thing\\ProjectDB_UAS\\VS Code\\DatabaseUAS\\FormUtama.cs",
+              "RelativeDocumentMoniker": "DatabaseUAS\\FormUtama.cs",
+              "ToolTip": "C:\\Kuliah Thing\\ProjectDB_UAS\\VS Code\\DatabaseUAS\\FormUtama.cs [Design]",
+              "RelativeToolTip": "DatabaseUAS\\FormUtama.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-29T04:32:30.552Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "FormDaftarPost.cs [Design]",
-              "DocumentMoniker": "C:\\Kuliah Thing\\ProjectDB_UAS\\VS Code\\DatabaseUAS\\FormDaftarPost.cs",
-              "RelativeDocumentMoniker": "DatabaseUAS\\FormDaftarPost.cs",
-              "ToolTip": "C:\\Kuliah Thing\\ProjectDB_UAS\\VS Code\\DatabaseUAS\\FormDaftarPost.cs [Design]",
-              "RelativeToolTip": "DatabaseUAS\\FormDaftarPost.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-29T04:31:58.17Z",
+              "WhenOpened": "2026-06-18T01:01:24.545Z",
               "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Pencarian.cs",
-              "DocumentMoniker": "C:\\Kuliah Thing\\ProjectDB_UAS\\VS Code\\Class_CookShares\\Pencarian.cs",
-              "RelativeDocumentMoniker": "Class_CookShares\\Pencarian.cs",
-              "ToolTip": "C:\\Kuliah Thing\\ProjectDB_UAS\\VS Code\\Class_CookShares\\Pencarian.cs",
-              "RelativeToolTip": "Class_CookShares\\Pencarian.cs",
-              "ViewState": "AgIAADUAAAAAAAAAAAAAAD0AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-29T04:27:22.594Z",
-              "EditorCaption": ""
             }
           ]
         }

@@ -12,7 +12,7 @@ namespace DatabaseUAS {
     
     
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
-    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.VisualStudio.Editors.SettingsDesigner.SettingsSingleFileGenerator", "17.14.0.0")]
+    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.VisualStudio.Editors.SettingsDesigner.SettingsSingleFileGenerator", "18.7.0.0")]
     internal sealed partial class db : global::System.Configuration.ApplicationSettingsBase {
         
         private static db defaultInstance = ((db)(global::System.Configuration.ApplicationSettingsBase.Synchronized(new db())));
@@ -37,7 +37,7 @@ namespace DatabaseUAS {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("dbuts__c")]
+        [global::System.Configuration.DefaultSettingValueAttribute("cookshares")]
         public string DbName {
             get {
                 return ((string)(this["DbName"]));
