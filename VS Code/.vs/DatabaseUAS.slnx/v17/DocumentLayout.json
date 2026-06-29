@@ -1,22 +1,86 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Kuliah Thing\\ProjectDB_UAS\\VS Code\\",
+  "WorkspaceRootPath": "C:\\Users\\RANDY\\Downloads\\ProjectDB_UAS-main\\ProjectDB_UAS-main\\VS Code\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{19A58E2D-4098-4A2A-87DC-87393FF993F0}|Class_CookShares\\Class_CookShares.csproj|c:\\kuliah thing\\projectdb_uas\\vs code\\class_cookshares\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{19A58E2D-4098-4A2A-87DC-87393FF993F0}|Class_CookShares\\Class_CookShares.csproj|solutionrelative:class_cookshares\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{19A58E2D-4098-4A2A-87DC-87393FF993F0}|Class_CookShares\\Class_CookShares.csproj|c:\\users\\randy\\downloads\\projectdb_uas-main\\projectdb_uas-main\\vs code\\class_cookshares\\daftarrivew.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19A58E2D-4098-4A2A-87DC-87393FF993F0}|Class_CookShares\\Class_CookShares.csproj|solutionrelative:class_cookshares\\daftarrivew.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CDC01A18-874E-4BE6-A3EE-BD5A0F2F1C44}|DatabaseUAS\\DatabaseUAS.csproj|c:\\kuliah thing\\projectdb_uas\\vs code\\databaseuas\\formdaftarpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CDC01A18-874E-4BE6-A3EE-BD5A0F2F1C44}|DatabaseUAS\\DatabaseUAS.csproj|solutionrelative:databaseuas\\formdaftarpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CDC01A18-874E-4BE6-A3EE-BD5A0F2F1C44}|DatabaseUAS\\DatabaseUAS.csproj|c:\\users\\randy\\downloads\\projectdb_uas-main\\projectdb_uas-main\\vs code\\databaseuas\\formdaftarrating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDC01A18-874E-4BE6-A3EE-BD5A0F2F1C44}|DatabaseUAS\\DatabaseUAS.csproj|solutionrelative:databaseuas\\formdaftarrating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CDC01A18-874E-4BE6-A3EE-BD5A0F2F1C44}|DatabaseUAS\\DatabaseUAS.csproj|c:\\kuliah thing\\projectdb_uas\\vs code\\databaseuas\\formdaftarpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{CDC01A18-874E-4BE6-A3EE-BD5A0F2F1C44}|DatabaseUAS\\DatabaseUAS.csproj|solutionrelative:databaseuas\\formdaftarpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{19A58E2D-4098-4A2A-87DC-87393FF993F0}|Class_CookShares\\Class_CookShares.csproj|c:\\users\\randy\\downloads\\projectdb_uas-main\\projectdb_uas-main\\vs code\\class_cookshares\\kategori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19A58E2D-4098-4A2A-87DC-87393FF993F0}|Class_CookShares\\Class_CookShares.csproj|solutionrelative:class_cookshares\\kategori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{19A58E2D-4098-4A2A-87DC-87393FF993F0}|Class_CookShares\\Class_CookShares.csproj|c:\\kuliah thing\\projectdb_uas\\vs code\\class_cookshares\\pencarian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{19A58E2D-4098-4A2A-87DC-87393FF993F0}|Class_CookShares\\Class_CookShares.csproj|solutionrelative:class_cookshares\\pencarian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CDC01A18-874E-4BE6-A3EE-BD5A0F2F1C44}|DatabaseUAS\\DatabaseUAS.csproj|c:\\users\\randy\\downloads\\projectdb_uas-main\\projectdb_uas-main\\vs code\\databaseuas\\formkategori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDC01A18-874E-4BE6-A3EE-BD5A0F2F1C44}|DatabaseUAS\\DatabaseUAS.csproj|solutionrelative:databaseuas\\formkategori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDC01A18-874E-4BE6-A3EE-BD5A0F2F1C44}|DatabaseUAS\\DatabaseUAS.csproj|c:\\users\\randy\\downloads\\projectdb_uas-main\\projectdb_uas-main\\vs code\\databaseuas\\formdaftarrating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CDC01A18-874E-4BE6-A3EE-BD5A0F2F1C44}|DatabaseUAS\\DatabaseUAS.csproj|solutionrelative:databaseuas\\formdaftarrating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDC01A18-874E-4BE6-A3EE-BD5A0F2F1C44}|DatabaseUAS\\DatabaseUAS.csproj|c:\\users\\randy\\downloads\\projectdb_uas-main\\projectdb_uas-main\\vs code\\databaseuas\\formkategori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CDC01A18-874E-4BE6-A3EE-BD5A0F2F1C44}|DatabaseUAS\\DatabaseUAS.csproj|solutionrelative:databaseuas\\formkategori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDC01A18-874E-4BE6-A3EE-BD5A0F2F1C44}|DatabaseUAS\\DatabaseUAS.csproj|c:\\users\\randy\\downloads\\projectdb_uas-main\\projectdb_uas-main\\vs code\\databaseuas\\formbahan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDC01A18-874E-4BE6-A3EE-BD5A0F2F1C44}|DatabaseUAS\\DatabaseUAS.csproj|solutionrelative:databaseuas\\formbahan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDC01A18-874E-4BE6-A3EE-BD5A0F2F1C44}|DatabaseUAS\\DatabaseUAS.csproj|c:\\users\\randy\\downloads\\projectdb_uas-main\\projectdb_uas-main\\vs code\\databaseuas\\formbahan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CDC01A18-874E-4BE6-A3EE-BD5A0F2F1C44}|DatabaseUAS\\DatabaseUAS.csproj|solutionrelative:databaseuas\\formbahan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDC01A18-874E-4BE6-A3EE-BD5A0F2F1C44}|DatabaseUAS\\DatabaseUAS.csproj|c:\\users\\randy\\downloads\\projectdb_uas-main\\projectdb_uas-main\\vs code\\databaseuas\\formdaftarrecook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDC01A18-874E-4BE6-A3EE-BD5A0F2F1C44}|DatabaseUAS\\DatabaseUAS.csproj|solutionrelative:databaseuas\\formdaftarrecook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDC01A18-874E-4BE6-A3EE-BD5A0F2F1C44}|DatabaseUAS\\DatabaseUAS.csproj|c:\\users\\randy\\downloads\\projectdb_uas-main\\projectdb_uas-main\\vs code\\databaseuas\\formdaftarrecook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CDC01A18-874E-4BE6-A3EE-BD5A0F2F1C44}|DatabaseUAS\\DatabaseUAS.csproj|solutionrelative:databaseuas\\formdaftarrecook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19A58E2D-4098-4A2A-87DC-87393FF993F0}|Class_CookShares\\Class_CookShares.csproj|c:\\users\\randy\\downloads\\projectdb_uas-main\\projectdb_uas-main\\vs code\\class_cookshares\\daftarresep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19A58E2D-4098-4A2A-87DC-87393FF993F0}|Class_CookShares\\Class_CookShares.csproj|solutionrelative:class_cookshares\\daftarresep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19A58E2D-4098-4A2A-87DC-87393FF993F0}|Class_CookShares\\Class_CookShares.csproj|c:\\users\\randy\\downloads\\projectdb_uas-main\\projectdb_uas-main\\vs code\\class_cookshares\\daftarrecook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19A58E2D-4098-4A2A-87DC-87393FF993F0}|Class_CookShares\\Class_CookShares.csproj|solutionrelative:class_cookshares\\daftarrecook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19A58E2D-4098-4A2A-87DC-87393FF993F0}|Class_CookShares\\Class_CookShares.csproj|c:\\users\\randy\\downloads\\projectdb_uas-main\\projectdb_uas-main\\vs code\\class_cookshares\\daftarrating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19A58E2D-4098-4A2A-87DC-87393FF993F0}|Class_CookShares\\Class_CookShares.csproj|solutionrelative:class_cookshares\\daftarrating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19A58E2D-4098-4A2A-87DC-87393FF993F0}|Class_CookShares\\Class_CookShares.csproj|c:\\users\\randy\\downloads\\projectdb_uas-main\\projectdb_uas-main\\vs code\\class_cookshares\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19A58E2D-4098-4A2A-87DC-87393FF993F0}|Class_CookShares\\Class_CookShares.csproj|solutionrelative:class_cookshares\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDC01A18-874E-4BE6-A3EE-BD5A0F2F1C44}|DatabaseUAS\\DatabaseUAS.csproj|c:\\users\\randy\\downloads\\projectdb_uas-main\\projectdb_uas-main\\vs code\\databaseuas\\formdaftarresep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDC01A18-874E-4BE6-A3EE-BD5A0F2F1C44}|DatabaseUAS\\DatabaseUAS.csproj|solutionrelative:databaseuas\\formdaftarresep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDC01A18-874E-4BE6-A3EE-BD5A0F2F1C44}|DatabaseUAS\\DatabaseUAS.csproj|c:\\users\\randy\\downloads\\projectdb_uas-main\\projectdb_uas-main\\vs code\\databaseuas\\formdaftarresep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CDC01A18-874E-4BE6-A3EE-BD5A0F2F1C44}|DatabaseUAS\\DatabaseUAS.csproj|solutionrelative:databaseuas\\formdaftarresep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDC01A18-874E-4BE6-A3EE-BD5A0F2F1C44}|DatabaseUAS\\DatabaseUAS.csproj|c:\\users\\randy\\downloads\\projectdb_uas-main\\projectdb_uas-main\\vs code\\databaseuas\\formcookingchallange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CDC01A18-874E-4BE6-A3EE-BD5A0F2F1C44}|DatabaseUAS\\DatabaseUAS.csproj|solutionrelative:databaseuas\\formcookingchallange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDC01A18-874E-4BE6-A3EE-BD5A0F2F1C44}|DatabaseUAS\\DatabaseUAS.csproj|c:\\users\\randy\\downloads\\projectdb_uas-main\\projectdb_uas-main\\vs code\\databaseuas\\formcookingchallange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDC01A18-874E-4BE6-A3EE-BD5A0F2F1C44}|DatabaseUAS\\DatabaseUAS.csproj|solutionrelative:databaseuas\\formcookingchallange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDC01A18-874E-4BE6-A3EE-BD5A0F2F1C44}|DatabaseUAS\\DatabaseUAS.csproj|c:\\users\\randy\\downloads\\projectdb_uas-main\\projectdb_uas-main\\vs code\\databaseuas\\formutama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CDC01A18-874E-4BE6-A3EE-BD5A0F2F1C44}|DatabaseUAS\\DatabaseUAS.csproj|solutionrelative:databaseuas\\formutama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19A58E2D-4098-4A2A-87DC-87393FF993F0}|Class_CookShares\\Class_CookShares.csproj|C:\\Users\\RANDY\\Downloads\\ProjectDB_UAS-main\\ProjectDB_UAS-main\\VS Code\\class_cookshares\\koneksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19A58E2D-4098-4A2A-87DC-87393FF993F0}|Class_CookShares\\Class_CookShares.csproj|solutionrelative:class_cookshares\\koneksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,70 +90,267 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FormDaftarPost.cs",
-              "DocumentMoniker": "C:\\Kuliah Thing\\ProjectDB_UAS\\VS Code\\DatabaseUAS\\FormDaftarPost.cs",
-              "RelativeDocumentMoniker": "DatabaseUAS\\FormDaftarPost.cs",
-              "ToolTip": "C:\\Kuliah Thing\\ProjectDB_UAS\\VS Code\\DatabaseUAS\\FormDaftarPost.cs",
-              "RelativeToolTip": "DatabaseUAS\\FormDaftarPost.cs",
-              "ViewState": "AgIAADQAAAAAAAAAAAAjwD8AAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-29T04:36:19.085Z",
-              "EditorCaption": ""
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Post.cs",
-              "DocumentMoniker": "C:\\Kuliah Thing\\ProjectDB_UAS\\VS Code\\Class_CookShares\\Post.cs",
-              "RelativeDocumentMoniker": "Class_CookShares\\Post.cs",
-              "ToolTip": "C:\\Kuliah Thing\\ProjectDB_UAS\\VS Code\\Class_CookShares\\Post.cs",
-              "RelativeToolTip": "Class_CookShares\\Post.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAAwDwAAABCAAAAAAAAAA==",
+              "Title": "DaftarRivew.cs",
+              "DocumentMoniker": "C:\\Users\\RANDY\\Downloads\\ProjectDB_UAS-main\\ProjectDB_UAS-main\\VS Code\\Class_CookShares\\DaftarRivew.cs",
+              "RelativeDocumentMoniker": "Class_CookShares\\DaftarRivew.cs",
+              "ToolTip": "C:\\Users\\RANDY\\Downloads\\ProjectDB_UAS-main\\ProjectDB_UAS-main\\VS Code\\Class_CookShares\\DaftarRivew.cs",
+              "RelativeToolTip": "Class_CookShares\\DaftarRivew.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAABbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-29T04:32:30.552Z",
+              "WhenOpened": "2026-06-29T03:53:17.454Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "FormDaftarPost.cs [Design]",
-              "DocumentMoniker": "C:\\Kuliah Thing\\ProjectDB_UAS\\VS Code\\DatabaseUAS\\FormDaftarPost.cs",
-              "RelativeDocumentMoniker": "DatabaseUAS\\FormDaftarPost.cs",
-              "ToolTip": "C:\\Kuliah Thing\\ProjectDB_UAS\\VS Code\\DatabaseUAS\\FormDaftarPost.cs [Design]",
-              "RelativeToolTip": "DatabaseUAS\\FormDaftarPost.cs [Design]",
+              "DocumentIndex": 8,
+              "Title": "FormDaftarRecook.cs",
+              "DocumentMoniker": "C:\\Users\\RANDY\\Downloads\\ProjectDB_UAS-main\\ProjectDB_UAS-main\\VS Code\\DatabaseUAS\\FormDaftarRecook.cs",
+              "RelativeDocumentMoniker": "DatabaseUAS\\FormDaftarRecook.cs",
+              "ToolTip": "C:\\Users\\RANDY\\Downloads\\ProjectDB_UAS-main\\ProjectDB_UAS-main\\VS Code\\DatabaseUAS\\FormDaftarRecook.cs",
+              "RelativeToolTip": "DatabaseUAS\\FormDaftarRecook.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAkwGoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-29T04:31:58.17Z",
+              "WhenOpened": "2026-06-29T02:59:26.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormBahan.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\RANDY\\Downloads\\ProjectDB_UAS-main\\ProjectDB_UAS-main\\VS Code\\DatabaseUAS\\FormBahan.cs",
+              "RelativeDocumentMoniker": "DatabaseUAS\\FormBahan.cs",
+              "ToolTip": "C:\\Users\\RANDY\\Downloads\\ProjectDB_UAS-main\\ProjectDB_UAS-main\\VS Code\\DatabaseUAS\\FormBahan.cs [Design]",
+              "RelativeToolTip": "DatabaseUAS\\FormBahan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-29T02:38:58.655Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormBahan.cs",
+              "DocumentMoniker": "C:\\Users\\RANDY\\Downloads\\ProjectDB_UAS-main\\ProjectDB_UAS-main\\VS Code\\DatabaseUAS\\FormBahan.cs",
+              "RelativeDocumentMoniker": "DatabaseUAS\\FormBahan.cs",
+              "ToolTip": "C:\\Users\\RANDY\\Downloads\\ProjectDB_UAS-main\\ProjectDB_UAS-main\\VS Code\\DatabaseUAS\\FormBahan.cs",
+              "RelativeToolTip": "DatabaseUAS\\FormBahan.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-29T02:39:02.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormKategori.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\RANDY\\Downloads\\ProjectDB_UAS-main\\ProjectDB_UAS-main\\VS Code\\DatabaseUAS\\FormKategori.cs",
+              "RelativeDocumentMoniker": "DatabaseUAS\\FormKategori.cs",
+              "ToolTip": "C:\\Users\\RANDY\\Downloads\\ProjectDB_UAS-main\\ProjectDB_UAS-main\\VS Code\\DatabaseUAS\\FormKategori.cs [Design]",
+              "RelativeToolTip": "DatabaseUAS\\FormKategori.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-29T02:39:42.951Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Pencarian.cs",
-              "DocumentMoniker": "C:\\Kuliah Thing\\ProjectDB_UAS\\VS Code\\Class_CookShares\\Pencarian.cs",
-              "RelativeDocumentMoniker": "Class_CookShares\\Pencarian.cs",
-              "ToolTip": "C:\\Kuliah Thing\\ProjectDB_UAS\\VS Code\\Class_CookShares\\Pencarian.cs",
-              "RelativeToolTip": "Class_CookShares\\Pencarian.cs",
-              "ViewState": "AgIAADUAAAAAAAAAAAAAAD0AAAAJAAAAAAAAAA==",
+              "Title": "FormKategori.cs",
+              "DocumentMoniker": "C:\\Users\\RANDY\\Downloads\\ProjectDB_UAS-main\\ProjectDB_UAS-main\\VS Code\\DatabaseUAS\\FormKategori.cs",
+              "RelativeDocumentMoniker": "DatabaseUAS\\FormKategori.cs",
+              "ToolTip": "C:\\Users\\RANDY\\Downloads\\ProjectDB_UAS-main\\ProjectDB_UAS-main\\VS Code\\DatabaseUAS\\FormKategori.cs",
+              "RelativeToolTip": "DatabaseUAS\\FormKategori.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBsAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-29T04:27:22.594Z",
+              "WhenOpened": "2026-06-29T02:39:44.444Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormDaftarRating.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\RANDY\\Downloads\\ProjectDB_UAS-main\\ProjectDB_UAS-main\\VS Code\\DatabaseUAS\\FormDaftarRating.cs",
+              "RelativeDocumentMoniker": "DatabaseUAS\\FormDaftarRating.cs",
+              "ToolTip": "C:\\Users\\RANDY\\Downloads\\ProjectDB_UAS-main\\ProjectDB_UAS-main\\VS Code\\DatabaseUAS\\FormDaftarRating.cs [Design]",
+              "RelativeToolTip": "DatabaseUAS\\FormDaftarRating.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-29T02:42:21.974Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormDaftarRating.cs",
+              "DocumentMoniker": "C:\\Users\\RANDY\\Downloads\\ProjectDB_UAS-main\\ProjectDB_UAS-main\\VS Code\\DatabaseUAS\\FormDaftarRating.cs",
+              "RelativeDocumentMoniker": "DatabaseUAS\\FormDaftarRating.cs",
+              "ToolTip": "C:\\Users\\RANDY\\Downloads\\ProjectDB_UAS-main\\ProjectDB_UAS-main\\VS Code\\DatabaseUAS\\FormDaftarRating.cs",
+              "RelativeToolTip": "DatabaseUAS\\FormDaftarRating.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAcwIYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-29T02:43:24.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Kategori.cs",
+              "DocumentMoniker": "C:\\Users\\RANDY\\Downloads\\ProjectDB_UAS-main\\ProjectDB_UAS-main\\VS Code\\Class_CookShares\\Kategori.cs",
+              "RelativeDocumentMoniker": "Class_CookShares\\Kategori.cs",
+              "ToolTip": "C:\\Users\\RANDY\\Downloads\\ProjectDB_UAS-main\\ProjectDB_UAS-main\\VS Code\\Class_CookShares\\Kategori.cs",
+              "RelativeToolTip": "Class_CookShares\\Kategori.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAYwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-29T03:20:34.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormDaftarRecook.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\RANDY\\Downloads\\ProjectDB_UAS-main\\ProjectDB_UAS-main\\VS Code\\DatabaseUAS\\FormDaftarRecook.cs",
+              "RelativeDocumentMoniker": "DatabaseUAS\\FormDaftarRecook.cs",
+              "ToolTip": "C:\\Users\\RANDY\\Downloads\\ProjectDB_UAS-main\\ProjectDB_UAS-main\\VS Code\\DatabaseUAS\\FormDaftarRecook.cs [Design]",
+              "RelativeToolTip": "DatabaseUAS\\FormDaftarRecook.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-29T02:59:22.239Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DaftarResep.cs",
+              "DocumentMoniker": "C:\\Users\\RANDY\\Downloads\\ProjectDB_UAS-main\\ProjectDB_UAS-main\\VS Code\\Class_CookShares\\DaftarResep.cs",
+              "RelativeDocumentMoniker": "Class_CookShares\\DaftarResep.cs",
+              "ToolTip": "C:\\Users\\RANDY\\Downloads\\ProjectDB_UAS-main\\ProjectDB_UAS-main\\VS Code\\Class_CookShares\\DaftarResep.cs",
+              "RelativeToolTip": "Class_CookShares\\DaftarResep.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-29T03:42:38.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DaftarRecook.cs",
+              "DocumentMoniker": "C:\\Users\\RANDY\\Downloads\\ProjectDB_UAS-main\\ProjectDB_UAS-main\\VS Code\\Class_CookShares\\DaftarRecook.cs",
+              "RelativeDocumentMoniker": "Class_CookShares\\DaftarRecook.cs",
+              "ToolTip": "C:\\Users\\RANDY\\Downloads\\ProjectDB_UAS-main\\ProjectDB_UAS-main\\VS Code\\Class_CookShares\\DaftarRecook.cs",
+              "RelativeToolTip": "Class_CookShares\\DaftarRecook.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAiwFIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-29T03:37:08.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DaftarRating.cs",
+              "DocumentMoniker": "C:\\Users\\RANDY\\Downloads\\ProjectDB_UAS-main\\ProjectDB_UAS-main\\VS Code\\Class_CookShares\\DaftarRating.cs",
+              "RelativeDocumentMoniker": "Class_CookShares\\DaftarRating.cs",
+              "ToolTip": "C:\\Users\\RANDY\\Downloads\\ProjectDB_UAS-main\\ProjectDB_UAS-main\\VS Code\\Class_CookShares\\DaftarRating.cs",
+              "RelativeToolTip": "Class_CookShares\\DaftarRating.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAFIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-29T03:22:30.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\RANDY\\Downloads\\ProjectDB_UAS-main\\ProjectDB_UAS-main\\VS Code\\Class_CookShares\\Class1.cs",
+              "RelativeDocumentMoniker": "Class_CookShares\\Class1.cs",
+              "ToolTip": "C:\\Users\\RANDY\\Downloads\\ProjectDB_UAS-main\\ProjectDB_UAS-main\\VS Code\\Class_CookShares\\Class1.cs",
+              "RelativeToolTip": "Class_CookShares\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-29T03:20:30.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FormDaftarResep.cs",
+              "DocumentMoniker": "C:\\Users\\RANDY\\Downloads\\ProjectDB_UAS-main\\ProjectDB_UAS-main\\VS Code\\DatabaseUAS\\FormDaftarResep.cs",
+              "RelativeDocumentMoniker": "DatabaseUAS\\FormDaftarResep.cs",
+              "ToolTip": "C:\\Users\\RANDY\\Downloads\\ProjectDB_UAS-main\\ProjectDB_UAS-main\\VS Code\\DatabaseUAS\\FormDaftarResep.cs",
+              "RelativeToolTip": "DatabaseUAS\\FormDaftarResep.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAmwDAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-29T03:16:19.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FormDaftarResep.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\RANDY\\Downloads\\ProjectDB_UAS-main\\ProjectDB_UAS-main\\VS Code\\DatabaseUAS\\FormDaftarResep.cs",
+              "RelativeDocumentMoniker": "DatabaseUAS\\FormDaftarResep.cs",
+              "ToolTip": "C:\\Users\\RANDY\\Downloads\\ProjectDB_UAS-main\\ProjectDB_UAS-main\\VS Code\\DatabaseUAS\\FormDaftarResep.cs [Design]",
+              "RelativeToolTip": "DatabaseUAS\\FormDaftarResep.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-29T03:16:17.461Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FormCookingChallange.cs",
+              "DocumentMoniker": "C:\\Users\\RANDY\\Downloads\\ProjectDB_UAS-main\\ProjectDB_UAS-main\\VS Code\\DatabaseUAS\\FormCookingChallange.cs",
+              "RelativeDocumentMoniker": "DatabaseUAS\\FormCookingChallange.cs",
+              "ToolTip": "C:\\Users\\RANDY\\Downloads\\ProjectDB_UAS-main\\ProjectDB_UAS-main\\VS Code\\DatabaseUAS\\FormCookingChallange.cs",
+              "RelativeToolTip": "DatabaseUAS\\FormCookingChallange.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-29T02:39:27.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FormCookingChallange.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\RANDY\\Downloads\\ProjectDB_UAS-main\\ProjectDB_UAS-main\\VS Code\\DatabaseUAS\\FormCookingChallange.cs",
+              "RelativeDocumentMoniker": "DatabaseUAS\\FormCookingChallange.cs",
+              "ToolTip": "C:\\Users\\RANDY\\Downloads\\ProjectDB_UAS-main\\ProjectDB_UAS-main\\VS Code\\DatabaseUAS\\FormCookingChallange.cs [Design]",
+              "RelativeToolTip": "DatabaseUAS\\FormCookingChallange.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-29T02:39:20.454Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Koneksi.cs",
+              "DocumentMoniker": "C:\\Users\\RANDY\\Downloads\\ProjectDB_UAS-main\\ProjectDB_UAS-main\\VS Code\\Class_CookShares\\Koneksi.cs",
+              "RelativeDocumentMoniker": "Class_CookShares\\Koneksi.cs",
+              "ToolTip": "C:\\Users\\RANDY\\Downloads\\ProjectDB_UAS-main\\ProjectDB_UAS-main\\VS Code\\Class_CookShares\\Koneksi.cs",
+              "RelativeToolTip": "Class_CookShares\\Koneksi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T01:01:34.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FormUtama.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\RANDY\\Downloads\\ProjectDB_UAS-main\\ProjectDB_UAS-main\\VS Code\\DatabaseUAS\\FormUtama.cs",
+              "RelativeDocumentMoniker": "DatabaseUAS\\FormUtama.cs",
+              "ToolTip": "C:\\Users\\RANDY\\Downloads\\ProjectDB_UAS-main\\ProjectDB_UAS-main\\VS Code\\DatabaseUAS\\FormUtama.cs [Design]",
+              "RelativeToolTip": "DatabaseUAS\\FormUtama.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T01:01:24.545Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }

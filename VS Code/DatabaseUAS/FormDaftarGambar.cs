@@ -1,5 +1,4 @@
-﻿using Class_CookShares;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -56,12 +55,6 @@ namespace DatabaseUAS
         private void label3_Click(object sender, EventArgs e)
         {
 
-        }
-
-        private void FormDaftarGambar_Load(object sender, EventArgs e)
-        {
-            List<Gambar> listData = Gambar.BacaData();
-            dgvData.DataSource = listData;
         }
     }
 }

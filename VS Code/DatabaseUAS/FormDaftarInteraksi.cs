@@ -1,5 +1,4 @@
-﻿using Class_CookShares;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -21,12 +20,6 @@ namespace DatabaseUAS
         private void btnKeluar_Click(object sender, EventArgs e)
         {
             this.Close();
-        }
-
-        private void FormDaftarInteraksi_Load(object sender, EventArgs e)
-        {
-            List<Interaksi> listData = Interaksi.BacaData();
-            dgvData.DataSource = listData;
         }
     }
 }

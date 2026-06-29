@@ -44,15 +44,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Bahan.cs" />
     <Compile Include="Class1.cs" />
-    <Compile Include="CookingChallenge.cs" />
-    <Compile Include="Gambar.cs" />
-    <Compile Include="Interaksi.cs" />
+    <Compile Include="DaftarRating.cs" />
+    <Compile Include="DaftarRecook.cs" />
+    <Compile Include="DaftarResep.cs" />
+    <Compile Include="DaftarRivew.cs" />
     <Compile Include="Kategori.cs" />
     <Compile Include="Koneksi.cs" />
-    <Compile Include="Pencarian.cs" />
-    <Compile Include="Post.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
