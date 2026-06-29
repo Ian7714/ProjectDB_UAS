@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 ﻿using MySql.Data.MySqlClient;
 using System;
+=======
+﻿using System;
+>>>>>>> origin/main
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -13,8 +17,11 @@ namespace DatabaseUAS
 {
     public partial class FormDaftarResep : Form
     {
+<<<<<<< HEAD
         string connStr = "server=localhost;database=cookshares;uid=root;pwd=;";
 
+=======
+>>>>>>> origin/main
         public FormDaftarResep()
         {
             InitializeComponent();
@@ -24,6 +31,7 @@ namespace DatabaseUAS
         {
             this.Close();
         }
+<<<<<<< HEAD
 
         private void FormDaftarResep_Load(object sender, EventArgs e)
         {
@@ -105,5 +113,7 @@ namespace DatabaseUAS
             txtCari.Clear();
             TampilData();
         }
+=======
+>>>>>>> origin/main
     }
 }

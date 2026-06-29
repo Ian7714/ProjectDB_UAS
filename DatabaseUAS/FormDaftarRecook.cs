@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 ﻿using MySql.Data.MySqlClient;
 using System;
+=======
+﻿using System;
+>>>>>>> origin/main
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -18,6 +22,7 @@ namespace DatabaseUAS
             InitializeComponent();
         }
 
+<<<<<<< HEAD
         string connStr = "server=localhost;database=cookshares;uid=root;pwd=;";
 
         private void TampilData()
@@ -52,6 +57,8 @@ namespace DatabaseUAS
             }
         }
 
+=======
+>>>>>>> origin/main
         private void btnKeluar_Click(object sender, EventArgs e)
         {
             this.Close();
@@ -65,13 +72,20 @@ namespace DatabaseUAS
         private void txtCari_TextChanged(object sender, EventArgs e)
         {
 
+<<<<<<< HEAD
             CariData();
+=======
+>>>>>>> origin/main
         }
 
         private void cboKategori_SelectedIndexChanged(object sender, EventArgs e)
         {
+<<<<<<< HEAD
              txtCari.Clear();
             TampilData();
+=======
+
+>>>>>>> origin/main
         }
 
         private void label1_Click(object sender, EventArgs e)
@@ -86,13 +100,18 @@ namespace DatabaseUAS
 
         private void btnTambah_Click(object sender, EventArgs e)
         {
+<<<<<<< HEAD
             //belum bisa di buat karena form tambah datar recook belum ada
+=======
+
+>>>>>>> origin/main
         }
 
         private void label3_Click(object sender, EventArgs e)
         {
 
         }
+<<<<<<< HEAD
 
         private void FormDaftarRecook_Load(object sender, EventArgs e)
         {
@@ -149,5 +168,7 @@ namespace DatabaseUAS
                 MessageBox.Show(ex.Message);
             }
         }
+=======
+>>>>>>> origin/main
     }
 }

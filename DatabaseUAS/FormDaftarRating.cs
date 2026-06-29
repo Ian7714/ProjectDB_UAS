@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 ﻿using Class_CookShares;
 using MySql.Data.MySqlClient;
 using System;
+=======
+﻿using System;
+>>>>>>> origin/main
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -24,6 +28,7 @@ namespace DatabaseUAS
             this.Close();
         }
 
+<<<<<<< HEAD
         public void TampilData()
         {
             string koneksi = "server=localhost;database=db_resep;uid=root;pwd=;";
@@ -50,6 +55,8 @@ namespace DatabaseUAS
             dgvData.DataSource = dt;
         }
 
+=======
+>>>>>>> origin/main
         private void panel1_Paint(object sender, PaintEventArgs e)
         {
 
@@ -57,6 +64,7 @@ namespace DatabaseUAS
 
         private void txtCari_TextChanged(object sender, EventArgs e)
         {
+<<<<<<< HEAD
             string koneksi = "server=localhost;database=db_resep;uid=root;pwd=;";
 
             MySqlConnection con = new MySqlConnection(koneksi);
@@ -95,12 +103,19 @@ namespace DatabaseUAS
             da.Fill(dt);
 
             dgvData.DataSource = dt;
+=======
+
+>>>>>>> origin/main
         }
 
         private void cboKategori_SelectedIndexChanged(object sender, EventArgs e)
         {
+<<<<<<< HEAD
             txtCari.Clear();
             TampilData();
+=======
+
+>>>>>>> origin/main
         }
 
         private void label1_Click(object sender, EventArgs e)
@@ -115,18 +130,23 @@ namespace DatabaseUAS
 
         private void btnTambah_Click(object sender, EventArgs e)
         {
+<<<<<<< HEAD
             //FormTambahRating frm = new FormTambahRating();
             //frm.ShowDialog();
 
             //belum ada form tambah rating
 
             TampilData();
+=======
+
+>>>>>>> origin/main
         }
 
         private void label3_Click(object sender, EventArgs e)
         {
 
         }
+<<<<<<< HEAD
 
         private void FormDaftarRating_Load(object sender, EventArgs e)
         {
@@ -141,5 +161,7 @@ namespace DatabaseUAS
 
             TampilData();
         }
+=======
+>>>>>>> origin/main
     }
 }

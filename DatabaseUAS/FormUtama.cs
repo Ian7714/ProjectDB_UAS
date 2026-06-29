@@ -38,5 +38,50 @@ namespace DatabaseUAS
             frm.MdiParent = this;
             frm.Show();
         }
+<<<<<<< HEAD
+=======
+
+        private void ingredientsToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            FormBahan frm = new FormBahan();
+            frm.MdiParent = this;
+            frm.Show();
+        }
+
+        private void cookingChallangeToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            FormCookingChallange frm = new FormCookingChallange();
+            frm.MdiParent = this;
+            frm.Show();
+        }
+
+        private void gambarToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            FormDaftarGambar frm = new FormDaftarGambar();
+            frm.MdiParent = this;
+            frm.Show();
+        }
+
+        private void interaksiToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            FormDaftarInteraksi frm = new FormDaftarInteraksi();
+            frm.MdiParent = this;
+            frm.Show();
+        }
+
+        private void pencarianToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            FormDaftarPencarian frm = new FormDaftarPencarian();
+            frm.MdiParent = this;
+            frm.Show();
+        }
+
+        private void browsePostToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            FormDaftarPost frm = new FormDaftarPost();
+            frm.MdiParent = this;
+            frm.Show();
+        }
+>>>>>>> origin/main
     }
 }
