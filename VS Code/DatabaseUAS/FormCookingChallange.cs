@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Class_CookShares;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -20,6 +21,12 @@ namespace DatabaseUAS
         private void btnKeluar_Click(object sender, EventArgs e)
         {
             this.Close();
+        }
+
+        private void FormCookingChallange_Load(object sender, EventArgs e)
+        {
+            List<CookingChallenge> listData = CookingChallenge.BacaData();
+            dgvData.DataSource = listData;
         }
     }
 }

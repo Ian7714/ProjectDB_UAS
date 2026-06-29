@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Class_CookShares;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -20,6 +21,19 @@ namespace DatabaseUAS
         private void btnKeluar_Click(object sender, EventArgs e)
         {
             this.Close();
+        }
+
+        private void FormBahan_Load(object sender, EventArgs e)
+        {
+            List<Bahan> listData = Bahan.BacaData();
+            dgvData.DataSource = listData;
+
+            cboKategori.Items.Add("bahan_id");
+            cboKategori.Items.Add("nama_bahan");
+            cboKategori.Items.Add("satuan");
+            cboKategori.Items.Add("kalori_per_unit");
+
+            cboKategori.SelectedIndex = 0;
         }
     }
 }
