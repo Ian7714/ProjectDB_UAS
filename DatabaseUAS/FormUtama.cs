@@ -38,6 +38,8 @@ namespace DatabaseUAS
             frm.MdiParent = this;
             frm.Show();
         }
+<<<<<<< HEAD
+=======
 
         private void ingredientsToolStripMenuItem_Click(object sender, EventArgs e)
         {
@@ -80,5 +82,6 @@ namespace DatabaseUAS
             frm.MdiParent = this;
             frm.Show();
         }
+>>>>>>> origin/main
     }
 }
