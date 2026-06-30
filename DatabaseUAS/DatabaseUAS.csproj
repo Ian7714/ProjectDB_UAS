@@ -179,9 +179,6 @@
     <EmbeddedResource Include="FormDaftarRecook.resx">
       <DependentUpon>FormDaftarRecook.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="FormDaftarResep.resx">
-      <DependentUpon>FormDaftarResep.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="FormDaftarReview.resx">
       <DependentUpon>FormDaftarReview.cs</DependentUpon>
     </EmbeddedResource>
