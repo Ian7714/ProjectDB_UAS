@@ -18,7 +18,7 @@ namespace Class_CookShares
         #region CONSTRUCTOR
         public Koneksi()
         {
-            string connectionString = "Server=localhost;Database=dbuts__c;Uid=root;Pwd=;";
+            string connectionString = "Server=localhost;Database=cookshare;Uid=root;Pwd=;";
 
             KoneksiDB = new MySqlConnection();
             KoneksiDB.ConnectionString = connectionString;

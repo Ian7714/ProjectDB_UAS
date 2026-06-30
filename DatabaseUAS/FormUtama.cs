@@ -23,6 +23,7 @@ namespace DatabaseUAS
         {
             try
             {
+                db.Default.DbName = "cookshare";
                 Koneksi koneksi = new Koneksi(db.Default.DbServer, db.Default.DbName, db.Default.DbUsername, db.Default.DbPassword);
                 MessageBox.Show("Koneksi Berhasil", "Informasi");
             }
