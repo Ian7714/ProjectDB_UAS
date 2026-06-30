@@ -130,7 +130,7 @@ namespace DatabaseUAS
 
         private void FormDaftarRating_Load(object sender, EventArgs e)
         {
-            List<DaftarRating> listData = DaftarRating.BacaData();
+            List<Rating> listData = Rating.BacaData();
             dgvData.DataSource = listData;
 
             cboKategori.Items.Add("ID Rating");

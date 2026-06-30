@@ -9,31 +9,35 @@ namespace Class_CookShares
 {
     public class DaftarRivew
     {
-        int review_id;
-        string isi_review;
-        int user_user_id;
-        int resep_resep_id;
+        int id;
+        string isiReview;
+        DateTime tglReview;
+        Resep resepReview;
+        User userReview;
 
         public DaftarRivew()
         {
-           Review_id = 0;
-            Isi_review = "";
-            User_user_id = 0;
-            Resep_resep_id = 0;
+            Id = 0;
+            IsiReview = "Siuu";
+            TglReview = DateTime.Now;
+            ResepReview = new Resep();
+            UserReview = new User();
         }
 
-        public DaftarRivew(int review_id, string isi_review, int user_user_id, int resep_resep_id)
+        public DaftarRivew(int id, string isiReview, DateTime tglReview, Resep resepReview, User userReview)
         {
-            this.Review_id = review_id;
-            this.Isi_review = isi_review;
-            this.User_user_id = user_user_id;
-            this.Resep_resep_id = resep_resep_id;
+            Id = id;
+            IsiReview = isiReview;
+            TglReview = tglReview;
+            ResepReview = resepReview;
+            UserReview = userReview;
         }
 
-        public int Review_id { get => review_id; set => review_id = value; }
-        public string Isi_review { get => isi_review; set => isi_review = value; }
-        public int User_user_id { get => user_user_id; set => user_user_id = value; }
-        public int Resep_resep_id { get => resep_resep_id; set => resep_resep_id = value; }
+        public int Id { get => id; set => id = value; }
+        public string IsiReview { get => isiReview; set => isiReview = value; }
+        public DateTime TglReview { get => tglReview; set => tglReview = value; }
+        public Resep ResepReview { get => resepReview; set => resepReview = value; }
+        public User UserReview { get => userReview; set => userReview = value; }
 
 
         // Method membaca data review dari database
@@ -41,38 +45,33 @@ namespace Class_CookShares
         {
             List<DaftarRivew> listData = new List<DaftarRivew>();
 
-            string perintah = "SELECT * FROM review";
+            string perintah = "SELECT * FROM ulasan";
 
             if (filter == "" || nilai == "")
             {
-                perintah = "SELECT * FROM review";
+                perintah = "SELECT * FROM ulasan";
             }
             else if (filter == "review_id")
             {
-                perintah = "SELECT * FROM review WHERE review_id = " + nilai;
+                perintah = "SELECT * FROM ulasan WHERE ulasan_id = " + nilai;
             }
             else if (filter == "isi_review")
             {
-                perintah = "SELECT * FROM review WHERE isi_review LIKE '%" + nilai + "%'";
+                perintah = "SELECT * FROM ulasan WHERE isi_ulasan LIKE '%" + nilai + "%'";
             }
 
             MySqlDataReader reader = Koneksi.JalankanPerintahSelect(perintah);
 
             while (reader.Read())
             {
-                int id = int.Parse(reader["review_id"].ToString());
-                string isi = reader["isi_review"].ToString();
-                int userId = int.Parse(reader["User_user_id"].ToString());
-                int resepId = int.Parse(reader["Resep_resep_id"].ToString());
+                DaftarRivew tampung = new DaftarRivew();
+                tampung.Id = int.Parse(reader.GetValue(0).ToString());
+                tampung.IsiReview = reader.GetValue(1).ToString();
+                tampung.TglReview = DateTime.Parse(reader.GetValue(2).ToString());
+                tampung.ResepReview.Nama = reader.GetValue(3).ToString();
+                tampung.userReview.Nama = reader.GetValue(4).ToString();
 
-                DaftarRivew data = new DaftarRivew(
-                    id,
-                    isi,
-                    userId,
-                    resepId
-                );
-
-                listData.Add(data);
+                listData.Add(tampung);
             }
 
             return listData;

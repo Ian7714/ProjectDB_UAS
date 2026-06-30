@@ -9,7 +9,7 @@ namespace Class_CookShares
 {
     // Class DaftarRating digunakan untuk merepresentasikan
     // data pada tabel rating di database
-    public class DaftarRating
+    public class Rating
     {
         // Atribut untuk menyimpan data rating
         int rating_id;
@@ -19,7 +19,7 @@ namespace Class_CookShares
 
         // Constructor default
         // Akan dijalankan ketika objek dibuat tanpa parameter
-        public DaftarRating()
+        public Rating()
         {
             Rating_id = 0;
             Skor_rating = 0;
@@ -29,7 +29,7 @@ namespace Class_CookShares
 
         // Constructor berparameter
         // Digunakan untuk langsung mengisi data objek
-        public DaftarRating(int rating_id, int skor_rating, int user_user_id, int resep_resep_id)
+        public Rating(int rating_id, int skor_rating, int user_user_id, int resep_resep_id)
         {
             this.Rating_id = rating_id;
             this.Skor_rating = skor_rating;
@@ -43,9 +43,9 @@ namespace Class_CookShares
         public int User_user_id { get => user_user_id; set => user_user_id = value; }
         public int Resep_resep_id { get => resep_resep_id; set => resep_resep_id = value; }
 
-        public static List<DaftarRating> BacaData(string filter = "", string nilai = "")
+        public static List<Rating> BacaData(string filter = "", string nilai = "")
         {
-            List<DaftarRating> listData = new List<DaftarRating>();
+            List<Rating> listData = new List<Rating>();
 
             string perintah = "SELECT * FROM rating";
 
@@ -74,7 +74,7 @@ namespace Class_CookShares
                 int resepId = int.Parse(reader["Resep_resep_id"].ToString());
 
                 // Membuat objek DaftarRating
-                DaftarRating data = new DaftarRating(id, skor, userId, resepId);
+                Rating data = new Rating(id, skor, userId, resepId);
 
                 // Menambahkan objek ke dalam list
                 listData.Add(data);

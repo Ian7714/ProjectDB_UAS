@@ -47,9 +47,9 @@
     <Compile Include="Bahan.cs" />
     <Compile Include="Class1.cs" />
     <Compile Include="CookingChallenge.cs" />
-    <Compile Include="DaftarRating.cs" />
+    <Compile Include="Rating.cs" />
     <Compile Include="DaftarRecook.cs" />
-    <Compile Include="DaftarResep.cs" />
+    <Compile Include="Resep.cs" />
     <Compile Include="DaftarRivew.cs" />
     <Compile Include="Gambar.cs" />
     <Compile Include="Interaksi.cs" />
@@ -58,6 +58,7 @@
     <Compile Include="Pencarian.cs" />
     <Compile Include="Post.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="User.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

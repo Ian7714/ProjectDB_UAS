@@ -47,10 +47,9 @@
             this.btnKeluar.BackColor = System.Drawing.Color.MidnightBlue;
             this.btnKeluar.Font = new System.Drawing.Font("Tahoma", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnKeluar.ForeColor = System.Drawing.Color.White;
-            this.btnKeluar.Location = new System.Drawing.Point(688, 452);
-            this.btnKeluar.Margin = new System.Windows.Forms.Padding(4);
+            this.btnKeluar.Location = new System.Drawing.Point(516, 367);
             this.btnKeluar.Name = "btnKeluar";
-            this.btnKeluar.Size = new System.Drawing.Size(157, 49);
+            this.btnKeluar.Size = new System.Drawing.Size(118, 40);
             this.btnKeluar.TabIndex = 71;
             this.btnKeluar.Text = "&KELUAR";
             this.btnKeluar.UseVisualStyleBackColor = false;
@@ -63,20 +62,18 @@
             this.panel1.Controls.Add(this.txtCari);
             this.panel1.Controls.Add(this.cboKategori);
             this.panel1.Controls.Add(this.label1);
-            this.panel1.Location = new System.Drawing.Point(12, 69);
-            this.panel1.Margin = new System.Windows.Forms.Padding(4);
+            this.panel1.Location = new System.Drawing.Point(9, 56);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(833, 65);
+            this.panel1.Size = new System.Drawing.Size(625, 53);
             this.panel1.TabIndex = 69;
             this.panel1.Paint += new System.Windows.Forms.PaintEventHandler(this.panel1_Paint);
             // 
             // txtCari
             // 
             this.txtCari.Font = new System.Drawing.Font("Tahoma", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtCari.Location = new System.Drawing.Point(417, 16);
-            this.txtCari.Margin = new System.Windows.Forms.Padding(4);
+            this.txtCari.Location = new System.Drawing.Point(313, 13);
             this.txtCari.Name = "txtCari";
-            this.txtCari.Size = new System.Drawing.Size(372, 33);
+            this.txtCari.Size = new System.Drawing.Size(280, 26);
             this.txtCari.TabIndex = 2;
             this.txtCari.TextChanged += new System.EventHandler(this.txtCari_TextChanged);
             // 
@@ -84,10 +81,9 @@
             // 
             this.cboKategori.Font = new System.Drawing.Font("Tahoma", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.cboKategori.FormattingEnabled = true;
-            this.cboKategori.Location = new System.Drawing.Point(188, 16);
-            this.cboKategori.Margin = new System.Windows.Forms.Padding(4);
+            this.cboKategori.Location = new System.Drawing.Point(141, 13);
             this.cboKategori.Name = "cboKategori";
-            this.cboKategori.Size = new System.Drawing.Size(220, 33);
+            this.cboKategori.Size = new System.Drawing.Size(166, 26);
             this.cboKategori.TabIndex = 1;
             this.cboKategori.SelectedIndexChanged += new System.EventHandler(this.cboKategori_SelectedIndexChanged);
             // 
@@ -95,10 +91,9 @@
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Tahoma", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(16, 21);
-            this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label1.Location = new System.Drawing.Point(12, 17);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(179, 23);
+            this.label1.Size = new System.Drawing.Size(123, 16);
             this.label1.TabIndex = 1;
             this.label1.Text = "Cari Berdasarkan:";
             this.label1.Click += new System.EventHandler(this.label1_Click);
@@ -114,8 +109,7 @@
             dataGridViewCellStyle1.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
             this.dgvData.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle1;
             this.dgvData.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dgvData.Location = new System.Drawing.Point(13, 147);
-            this.dgvData.Margin = new System.Windows.Forms.Padding(4);
+            this.dgvData.Location = new System.Drawing.Point(10, 119);
             this.dgvData.Name = "dgvData";
             dataGridViewCellStyle2.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
             dataGridViewCellStyle2.BackColor = System.Drawing.SystemColors.Control;
@@ -126,7 +120,7 @@
             dataGridViewCellStyle2.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
             this.dgvData.RowHeadersDefaultCellStyle = dataGridViewCellStyle2;
             this.dgvData.RowHeadersWidth = 57;
-            this.dgvData.Size = new System.Drawing.Size(832, 298);
+            this.dgvData.Size = new System.Drawing.Size(624, 242);
             this.dgvData.TabIndex = 73;
             this.dgvData.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvData_CellContentClick);
             // 
@@ -135,10 +129,9 @@
             this.btnTambah.BackColor = System.Drawing.Color.MidnightBlue;
             this.btnTambah.Font = new System.Drawing.Font("Tahoma", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnTambah.ForeColor = System.Drawing.Color.White;
-            this.btnTambah.Location = new System.Drawing.Point(12, 452);
-            this.btnTambah.Margin = new System.Windows.Forms.Padding(4);
+            this.btnTambah.Location = new System.Drawing.Point(9, 367);
             this.btnTambah.Name = "btnTambah";
-            this.btnTambah.Size = new System.Drawing.Size(148, 49);
+            this.btnTambah.Size = new System.Drawing.Size(111, 40);
             this.btnTambah.TabIndex = 70;
             this.btnTambah.Text = "&TAMBAH";
             this.btnTambah.UseVisualStyleBackColor = false;
@@ -149,10 +142,9 @@
             this.label3.BackColor = System.Drawing.Color.Navy;
             this.label3.Font = new System.Drawing.Font("Tahoma", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label3.ForeColor = System.Drawing.Color.White;
-            this.label3.Location = new System.Drawing.Point(13, 9);
-            this.label3.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label3.Location = new System.Drawing.Point(10, 7);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(832, 44);
+            this.label3.Size = new System.Drawing.Size(624, 36);
             this.label3.TabIndex = 72;
             this.label3.Text = "DAFTAR USER\r\n\r\n";
             this.label3.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -160,16 +152,18 @@
             // 
             // FormUser
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(855, 503);
+            this.ClientSize = new System.Drawing.Size(641, 409);
             this.Controls.Add(this.btnKeluar);
             this.Controls.Add(this.panel1);
             this.Controls.Add(this.dgvData);
             this.Controls.Add(this.btnTambah);
             this.Controls.Add(this.label3);
+            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.Name = "FormUser";
             this.Text = "FormUser";
+            this.Load += new System.EventHandler(this.FormUser_Load);
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dgvData)).EndInit();

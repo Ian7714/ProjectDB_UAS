@@ -80,5 +80,26 @@ namespace DatabaseUAS
             frm.MdiParent = this;
             frm.Show();
         }
+
+        private void allRecipesToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            FormDaftarResep frm = new FormDaftarResep();
+            frm.MdiParent = this;
+            frm.Show();
+        }
+
+        private void userToolStripMenuItem1_Click(object sender, EventArgs e)
+        {
+            FormUser frm = new FormUser();
+            frm.MdiParent = this;
+            frm.Show();
+        }
+
+        private void reviewsToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            FormDaftarReview frm = new FormDaftarReview();
+            frm.MdiParent = this;
+            frm.Show();
+        }
     }
 }

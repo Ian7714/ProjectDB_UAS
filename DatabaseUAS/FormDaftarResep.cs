@@ -1,3 +1,4 @@
+using Class_CookShares;
 using MySql.Data.MySqlClient;
 using System;
 using System.Collections.Generic;
@@ -25,17 +26,18 @@ namespace DatabaseUAS
             this.Close();
         }               
 
-        private void FormDaftarResep_Load(object sender, EventArgs e)
+        /*private void FormDaftarResep_Load(object sender, EventArgs e)
         {
+            List<Resep> listData = Resep.BacaData();
+            dgvData.DataSource = listData;
+
             cboKategori.Items.Clear();
 
             cboKategori.Items.Add("ID Resep");
             cboKategori.Items.Add("Nama Resep");
 
             cboKategori.SelectedIndex = 0;
-
-            TampilData();
-        }
+        }*/
 
         private void TampilData()
         {
@@ -102,8 +104,14 @@ namespace DatabaseUAS
 
         private void cboKategori_SelectedIndexChanged(object sender, EventArgs e)
         {
-            txtCari.Clear();
-            TampilData();
+            //txtCari.Clear();
+            //TampilData();
+        }
+
+        private void FormDaftarResep_Load(object sender, EventArgs e)
+        {
+            List<Resep> listData = Resep.BacaData();
+            dgvData.DataSource = listData;
         }
     }
 }
