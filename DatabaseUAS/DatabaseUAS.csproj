@@ -168,17 +168,35 @@
     <Compile Include="FormLeaderboard.Designer.cs">
       <DependentUpon>FormLeaderboard.cs</DependentUpon>
     </Compile>
+    <Compile Include="FormLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormLogin.Designer.cs">
+      <DependentUpon>FormLogin.cs</DependentUpon>
+    </Compile>
     <Compile Include="FormReadingList.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="FormReadingList.Designer.cs">
       <DependentUpon>FormReadingList.cs</DependentUpon>
     </Compile>
+    <Compile Include="FormRegister.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormRegister.Designer.cs">
+      <DependentUpon>FormRegister.cs</DependentUpon>
+    </Compile>
     <Compile Include="FormTambahDaftarBacaan.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="FormTambahDaftarBacaan.Designer.cs">
       <DependentUpon>FormTambahDaftarBacaan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormTambahPost.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormTambahPost.Designer.cs">
+      <DependentUpon>FormTambahPost.cs</DependentUpon>
     </Compile>
     <Compile Include="FormTambahRecock.cs">
       <SubType>Form</SubType>
@@ -269,11 +287,20 @@
     <EmbeddedResource Include="FormLeaderboard.resx">
       <DependentUpon>FormLeaderboard.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="FormLogin.resx">
+      <DependentUpon>FormLogin.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="FormReadingList.resx">
       <DependentUpon>FormReadingList.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="FormRegister.resx">
+      <DependentUpon>FormRegister.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="FormTambahDaftarBacaan.resx">
       <DependentUpon>FormTambahDaftarBacaan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormTambahPost.resx">
+      <DependentUpon>FormTambahPost.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FormTambahRecock.resx">
       <DependentUpon>FormTambahRecock.cs</DependentUpon>
