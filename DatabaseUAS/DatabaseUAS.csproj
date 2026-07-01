@@ -66,6 +66,12 @@
     <Compile Include="FormCookingChallange.Designer.cs">
       <DependentUpon>FormCookingChallange.cs</DependentUpon>
     </Compile>
+    <Compile Include="FormDaftarBacaan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDaftarBacaan.Designer.cs">
+      <DependentUpon>FormDaftarBacaan.cs</DependentUpon>
+    </Compile>
     <Compile Include="FormDaftarFollow.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -83,6 +89,18 @@
     </Compile>
     <Compile Include="FormDaftarInteraksi.Designer.cs">
       <DependentUpon>FormDaftarInteraksi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDaftarMenuMingguan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDaftarMenuMingguan.Designer.cs">
+      <DependentUpon>FormDaftarMenuMingguan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDaftarPapanPeringkat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDaftarPapanPeringkat.Designer.cs">
+      <DependentUpon>FormDaftarPapanPeringkat.cs</DependentUpon>
     </Compile>
     <Compile Include="FormDaftarPencarian.cs">
       <SubType>Form</SubType>
@@ -102,6 +120,12 @@
     <Compile Include="FormDaftarRating.Designer.cs">
       <DependentUpon>FormDaftarRating.cs</DependentUpon>
     </Compile>
+    <Compile Include="FormDaftarRecock.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDaftarRecock.Designer.cs">
+      <DependentUpon>FormDaftarRecock.cs</DependentUpon>
+    </Compile>
     <Compile Include="FormDaftarRecook.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -120,6 +144,18 @@
     <Compile Include="FormDaftarReview.Designer.cs">
       <DependentUpon>FormDaftarReview.cs</DependentUpon>
     </Compile>
+    <Compile Include="FormDaftarTantanganMemasak.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDaftarTantanganMemasak.Designer.cs">
+      <DependentUpon>FormDaftarTantanganMemasak.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDetailRencanaMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDetailRencanaMenu.Designer.cs">
+      <DependentUpon>FormDetailRencanaMenu.cs</DependentUpon>
+    </Compile>
     <Compile Include="FormKategori.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -137,6 +173,30 @@
     </Compile>
     <Compile Include="FormReadingList.Designer.cs">
       <DependentUpon>FormReadingList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormTambahDaftarBacaan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormTambahDaftarBacaan.Designer.cs">
+      <DependentUpon>FormTambahDaftarBacaan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormTambahRecock.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormTambahRecock.Designer.cs">
+      <DependentUpon>FormTambahRecock.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormTambahTantanganMemasak.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormTambahTantanganMemasak.Designer.cs">
+      <DependentUpon>FormTambahTantanganMemasak.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormTambahUbahMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormTambahUbahMenu.Designer.cs">
+      <DependentUpon>FormTambahUbahMenu.cs</DependentUpon>
     </Compile>
     <Compile Include="FormUser.cs">
       <SubType>Form</SubType>
@@ -158,6 +218,9 @@
     <EmbeddedResource Include="FormCookingChallange.resx">
       <DependentUpon>FormCookingChallange.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="FormDaftarBacaan.resx">
+      <DependentUpon>FormDaftarBacaan.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="FormDaftarFollow.resx">
       <DependentUpon>FormDaftarFollow.cs</DependentUpon>
     </EmbeddedResource>
@@ -166,6 +229,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="FormDaftarInteraksi.resx">
       <DependentUpon>FormDaftarInteraksi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDaftarMenuMingguan.resx">
+      <DependentUpon>FormDaftarMenuMingguan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDaftarPapanPeringkat.resx">
+      <DependentUpon>FormDaftarPapanPeringkat.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FormDaftarPencarian.resx">
       <DependentUpon>FormDaftarPencarian.cs</DependentUpon>
@@ -176,6 +245,9 @@
     <EmbeddedResource Include="FormDaftarRating.resx">
       <DependentUpon>FormDaftarRating.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="FormDaftarRecock.resx">
+      <DependentUpon>FormDaftarRecock.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="FormDaftarRecook.resx">
       <DependentUpon>FormDaftarRecook.cs</DependentUpon>
     </EmbeddedResource>
@@ -185,6 +257,12 @@
     <EmbeddedResource Include="FormDaftarReview.resx">
       <DependentUpon>FormDaftarReview.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="FormDaftarTantanganMemasak.resx">
+      <DependentUpon>FormDaftarTantanganMemasak.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDetailRencanaMenu.resx">
+      <DependentUpon>FormDetailRencanaMenu.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="FormKategori.resx">
       <DependentUpon>FormKategori.cs</DependentUpon>
     </EmbeddedResource>
@@ -193,6 +271,18 @@
     </EmbeddedResource>
     <EmbeddedResource Include="FormReadingList.resx">
       <DependentUpon>FormReadingList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormTambahDaftarBacaan.resx">
+      <DependentUpon>FormTambahDaftarBacaan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormTambahRecock.resx">
+      <DependentUpon>FormTambahRecock.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormTambahTantanganMemasak.resx">
+      <DependentUpon>FormTambahTantanganMemasak.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormTambahUbahMenu.resx">
+      <DependentUpon>FormTambahUbahMenu.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FormUser.resx">
       <DependentUpon>FormUser.cs</DependentUpon>
