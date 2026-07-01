@@ -36,6 +36,7 @@
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -47,6 +48,7 @@
     <Compile Include="Bahan.cs" />
     <Compile Include="Class1.cs" />
     <Compile Include="CookingChallenge.cs" />
+    <Compile Include="CustomPrint.cs" />
     <Compile Include="Rating.cs" />
     <Compile Include="DaftarRecook.cs" />
     <Compile Include="Resep.cs" />
@@ -58,6 +60,7 @@
     <Compile Include="Pencarian.cs" />
     <Compile Include="Post.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ResepBahan.cs" />
     <Compile Include="User.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

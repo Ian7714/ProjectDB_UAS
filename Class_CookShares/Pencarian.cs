@@ -12,24 +12,28 @@ namespace Class_CookShares
         int id;
         string kataKunci;
         DateTime tglPencarian;
+        User user;
 
         public Pencarian()
         {
             Id = 0;
             KataKunci = "";
             TglPencarian = DateTime.Now;
+            User = new User();
         }
 
-        public Pencarian(int id, string kataKunci, DateTime tglPencarian)
+        public Pencarian(int id, string kataKunci, DateTime tglPencarian, User user)
         {
             Id = id;
             KataKunci = kataKunci;
             TglPencarian = tglPencarian;
+            User = user;
         }
 
         public int Id { get => id; set => id = value; }
         public string KataKunci { get => kataKunci; set => kataKunci = value; }
         public DateTime TglPencarian { get => tglPencarian; set => tglPencarian = value; }
+        public User User { get => user; set => user = value; }
 
         public static List<Pencarian> BacaData(string filter = "", string nilai = "")
         {
@@ -54,11 +58,27 @@ namespace Class_CookShares
                 tampung.Id = int.Parse(reader.GetValue(0).ToString());
                 tampung.KataKunci = reader.GetValue(1).ToString();
                 tampung.TglPencarian = DateTime.Parse(reader.GetValue(2).ToString());
+                tampung.User.Id = int.Parse(reader.GetValue(3).ToString());
 
                 //Menambahkan objek kategori yang sudah diisi dengan data dari variabel tampung ke dalam listData
                 listData.Add(tampung);
             }
             return listData;
+        }
+        
+        public static void TambahData(Pencarian pc)
+        {
+            string perintah = "INSERT INTO `pencarian` (`pencarian_id`, `kata_kunci`, `tanggal_pencarian`, `Pengguna_pengguna_id`) " +
+                "VALUES ('" + pc.Id + "', '" + pc.KataKunci + "', '" + DateTime.Now + "', '" + pc.User.Id + "')";
+
+            Koneksi.JalankanPerintahNonQuery(perintah);
+        }
+
+        public static void HapusData(Pencarian pc)
+        {
+            string perintah = "DELETE FROM `pencarian` WHERE (`pencarian_id` = '" + pc.User.Id + "')";
+
+            Koneksi.JalankanPerintahNonQuery(perintah);
         }
     }
 }

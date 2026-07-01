@@ -56,26 +56,26 @@ namespace Class_CookShares
             List<CookingChallenge> listData = new List<CookingChallenge>();
 
             //Menyiapkan perintah SQL
-            string perintah = "SELECT * FROM cooking_challenge";
+            string perintah = "SELECT * FROM tantangan_memasak";
 
             if (filter == "" || nilai == "")
             {
-                perintah = "SELECT * FROM cooking_challenge";
+                perintah = "SELECT * FROM tantangan_memasak";
             }
             else if (filter == "nama_challenge")
             {
-                perintah = "SELECT * FROM cooking_challenge WHERE nama_challenge LIKE '%" + nilai + "%'";
+                perintah = "SELECT * FROM tantangan_memasak WHERE nama_challenge LIKE '%" + nilai + "%'";
             }
             else if (filter == "deskripsi")
             {
-                perintah = "SELECT * FROM cooking_challenge WHERE deskripsi LIKE '%" + nilai + "%'";
+                perintah = "SELECT * FROM tantangan_memasak WHERE deskripsi LIKE '%" + nilai + "%'";
             }
             else if (filter == "challenge_id")
             {
                 bool isInteger = int.TryParse(nilai, out _);
                 if (isInteger)
                 {
-                    perintah = "SELECT * FROM cooking_challenge WHERE challenge_id =" + nilai;
+                    perintah = "SELECT * FROM tantangan_memasak WHERE challenge_id =" + nilai;
                 }
                 else
                 {
